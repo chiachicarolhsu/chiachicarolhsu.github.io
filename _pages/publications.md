@@ -29,22 +29,13 @@ Manuscript in preparation.
 
 ## Conference Presentations
 
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-<div style="flex: 1;">
-
 <strong>Hsu, C.-C.</strong>, Ding, T.-J., Hsu, H.-Y., Yao, C.-Y., & Yao, Z.-F. (2026, June).
 
 <em>Enhanced posterior P300 during arithmetic verification reflects differences in mathematical proficiency.</em>
 
 Poster presented at the Summit of Psychological Associations in the Asia-Pacific (APPA), Tainan, Taiwan.
 
-
 <br>
-
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-<div style="flex: 1;">
 
 <strong>Hsu, C.-C.</strong> (2025, November).
 
@@ -52,23 +43,9 @@ Poster presented at the Summit of Psychological Associations in the Asia-Pacific
 
 Poster presented at the International Conference on Educational Innovation (ICEI), Hsinchu, Taiwan.
 
-</div>
-
-<div>
-
-<a href="/images/anxiety-poster.png">
-  <img src="/images/anxiety-poster.png" width="220">
-</a>
-
-</div>
-
-</div>
+[View Poster](/images/anxiety-poster.png)
 
 <br>
-
-<div style="display: flex; align-items: flex-start; gap: 24px;">
-
-<div style="flex: 1;">
 
 <strong>Hsu, C.-C.</strong>, & Hsu, H.-J. (2023, December).
 
@@ -76,14 +53,4 @@ Poster presented at the International Conference on Educational Innovation (ICEI
 
 Poster presented at the Asia Pacific Society of Speech, Language and Hearing (APSSLH), Ho Chi Minh City, Vietnam.
 
-</div>
-
-<div>
-
-<a href="/images/asd-poster.png">
-  <img src="/images/asd-poster.png" width="220">
-</a>
-
-</div>
-
-</div>
+[View Poster](/images/asd-poster.png)
