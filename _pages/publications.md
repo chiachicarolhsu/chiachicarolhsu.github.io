@@ -15,7 +15,7 @@ author_profile: true
 
 Revise & Resubmit.
 
----
+<br>
 
 ### In Preparation
 
@@ -35,7 +35,7 @@ Manuscript in preparation.
 
 Poster presented at APPA 2026, Tainan, Taiwan.
 
----
+<br>
 
 **Hsu, C.-C.** (2025, November).
 
@@ -43,7 +43,7 @@ Poster presented at APPA 2026, Tainan, Taiwan.
 
 Poster presented at ICEI 2025, Hsinchu, Taiwan.
 
----
+<br>
 
 **Hsu, C.-C.**, & Hsu, H.-J. (2023, December).
 
