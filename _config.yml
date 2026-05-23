@@ -13,7 +13,7 @@ title                    : "Chia-Chi Hsu"
 title_separator          : "-"
 name                     : &name "Chia-Chi Hsu"
 description              : &description "Academic website and research portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://chiachicarolhsu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://chiachicarolhsu.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chiachicarolhsu/chiachicarolhsu.github.io"
@@ -24,13 +24,13 @@ repository               : "chiachicarolhsu/chiachicarolhsu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Chia Chi Hsu"
   pronouns         : # example: "she/her"  
   bio              : "Research interests in developmental cognitive neuroscience, neurophysiology, learning, and autism spectrum disorder."
   location         : "Taiwan"
   employer         : "National Tsing Hua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chiachihsu@gapp.nthu.edu.tw" 
 
   # Academic websites
   academia         : # URL
