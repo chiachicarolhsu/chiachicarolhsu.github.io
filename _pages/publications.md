@@ -43,8 +43,8 @@ Poster presented at the Summit of Psychological Associations in the Asia-Pacific
 
 Poster presented at the International Conference on Educational Innovation (ICEI), Hsinchu, Taiwan.
 
-<a href="/images/anxiety_poster.png">
-  <img src="/images/anxiety_poster.png" width="350">
+<a href="/images/anxiety poster.png">
+  <img src="/images/anxiety poster.png" width="350">
 </a>
 
 <br>
@@ -55,6 +55,6 @@ Poster presented at the International Conference on Educational Innovation (ICEI
 
 Poster presented at the Asia Pacific Society of Speech, Language and Hearing (APSSLH), Ho Chi Minh City, Vietnam.
 
-<a href="/images/asd_poster.png">
-  <img src="/images/asd_poster.png" width="350">
+<a href="/images/asd poster.png">
+  <img src="/images/asd poster.png" width="350">
 </a>
