@@ -39,17 +39,6 @@ Manuscript in preparation.
 
 Poster presented at the Summit of Psychological Associations in the Asia-Pacific (APPA), Tainan, Taiwan.
 
-</div>
-
-<div>
-
-<a href="/images/appa_poster.png">
-  <img src="/images/appa_poster.png" width="220">
-</a>
-
-</div>
-
-</div>
 
 <br>
 
@@ -67,8 +56,8 @@ Poster presented at the International Conference on Educational Innovation (ICEI
 
 <div>
 
-<a href="/images/anxiety_poster.png">
-  <img src="/images/anxiety_poster.png" width="220">
+<a href="/images/anxiety-poster.png">
+  <img src="/images/anxiety-poster.png" width="220">
 </a>
 
 </div>
@@ -91,8 +80,8 @@ Poster presented at the Asia Pacific Society of Speech, Language and Hearing (AP
 
 <div>
 
-<a href="/images/asd_poster.png">
-  <img src="/images/asd_poster.png" width="220">
+<a href="/images/asd-poster.png">
+  <img src="/images/asd-poster.png" width="220">
 </a>
 
 </div>
