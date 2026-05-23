@@ -3,9 +3,6 @@ layout: archive
 permalink: /
 author_profile: true
 ---
-
-#About me
-======
 I am a Research Assistant at the College of Education, National Tsing Hua University. My research lies at the intersection of developmental cognitive neuroscience, neurophysiology, and education, with a focus on how brain organization supports learning and reading development across typical and atypical populations.
 
 #Research Interests
