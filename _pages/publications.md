@@ -11,9 +11,9 @@ author_profile: true
 
 **Hsu, C.-C.**, Ding, T.-J., Hsu, H.-Y., Yao, C.-Y., & Yao, Z.-F.
 
-*Baseline Mathematical Aptitude Mediates Compensatory Neural Effort During Arithmetic Verification in High School Athletes.*
+*Baseline mathematical aptitude mediates compensatory neural effort during arithmetic verification in high school athletes.*
 
-Revise & Resubmit.
+Revise & resubmit at *Journal of Experimental Brain Research*.
 
 <br>
 
@@ -21,7 +21,7 @@ Revise & Resubmit.
 
 **Hsu, C.-C.**, Yu, H.-Y., Ding, T.-J., Hsu, H.-Y., Yao, C.-Y., & Yao, Z.-F.
 
-*Posterior P300 Differences Are More Robust During Multiplication Than Function Verification.*
+*Posterior P300 differences are more robust during multiplication than function verification.*
 
 Manuscript in preparation.
 
@@ -31,22 +31,22 @@ Manuscript in preparation.
 
 **Hsu, C.-C.**, Ding, T.-J., Hsu, H.-Y., Yao, C.-Y., & Yao, Z.-F. (2026, June).
 
-*Enhanced Posterior P300 During Arithmetic Verification Reflects Differences in Mathematical Proficiency.*
+*Enhanced posterior P300 during arithmetic verification reflects differences in mathematical proficiency.*
 
-Poster presented at APPA 2026, Tainan, Taiwan.
+Poster presented at the Summit of Psychological Associations in the Asia-Pacific (APPA), Tainan, Taiwan.
 
 <br>
 
 **Hsu, C.-C.** (2025, November).
 
-*Exploring Language Proficiency and Anxiety Among Mandarin-Speaking Exchange Students at UC Berkeley.*
+*Exploring language proficiency and anxiety among Mandarin-speaking exchange students at UC Berkeley.*
 
-Poster presented at ICEI 2025, Hsinchu, Taiwan.
+Poster presented at the International Conference on Educational Innovation (ICEI), Hsinchu, Taiwan.
 
 <br>
 
 **Hsu, C.-C.**, & Hsu, H.-J. (2023, December).
 
-*Brain Lateralization of Language and Visual Processing in Individuals With and Without ASD.*
+*Brain lateralization of language and visual processing in individuals with and without ASD.*
 
-Poster presented at APSSLH 2023, Ho Chi Minh City, Vietnam.
+Poster presented at the Asia Pacific Society of Speech, Language and Hearing (APSSLH), Ho Chi Minh City, Vietnam.
