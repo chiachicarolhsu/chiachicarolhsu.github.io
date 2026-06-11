@@ -21,7 +21,7 @@ Understanding how neural organization, cognitive processes, and experience contr
 
 Using EEG/ERP, this project investigates how individual differences in mathematical proficiency relate to neural activity during multiplication and function verification. Current analyses focus on posterior P300 activity, neural efficiency, and whether group differences in neural responses can be explained by baseline mathematical aptitude.
 
-**Methods**:EEG/ERP, Behavioral assessment, Mediation analysis
+**Methods**: EEG/ERP, Behavioral assessment, Mediation analysis
 
 **Software**: MATLAB, EEGLAB, ERPLAB
 
