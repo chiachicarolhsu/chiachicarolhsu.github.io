@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: single
 title: "Research"
@@ -158,4 +157,3 @@ This project investigates memory encoding and recognition in children with obesi
 <li>Behavioral Data Collection</li>
 <li>Reaction Time and Accuracy Analyses</li>
 </ul>
-```
