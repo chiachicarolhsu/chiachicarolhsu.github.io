@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: single
 title: "Research"
@@ -107,4 +106,3 @@ This project investigates memory encoding and recognition in children with obesi
 **Impact:** This project sparked my interest in experimental design and revealed how individuals often adopt distinct cognitive strategies when solving the same numerical task, leading to substantial variation in response time and accuracy.
 
 **Methods:** PsychoPy Experimental Design, Behavioral Data Collection, Reaction Time and Accuracy Analyses
-```
