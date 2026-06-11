@@ -9,7 +9,7 @@ I am a Full-Time Research Assistant at the Acute Brain and Cognition Lab, Nation
 
 ## Research Interests
 
-- Language & Reading Development 
+- Language & Reading Development
 - Neuroplasticity & Learning
 - Structure–Function Relationships
 
@@ -17,26 +17,29 @@ I am a Full-Time Research Assistant at the Acute Brain and Cognition Lab, Nation
 
 My long-term goal is to understand how neural organization and neuroplasticity contribute to variability in language and reading development. Specifically, I am interested in whether short-term experience-dependent neural changes can accumulate into long-term developmental trajectories, and how these processes shape learning across diverse populations.
 
-I seek to explore how short-term experimental manipulations and longer-term educational interventions may reshape hemispheric specialization and broader neural systems, and how these changes ultimately translate to language and reading proficiency.
+I seek to explore how short-term experimental manipulations and longer-term educational interventions may reshape hemispheric specialization and broader neural systems, ultimately influencing language and reading proficiency.
 
----
+## Technical Methods
 
-## Technical Methods & Skills
+### Neuroimaging
 
-### Neuroimaging & Neurophysiological Modalities
-
-- Functional Transcranial Doppler Sonography (fTCD)
+- fTCD
 - EEG / ERP
 - fMRI
 
-### Programming & Data Analysis
+### Analysis
 
-- **Programming Languages:** MATLAB, Python, R
-- **Statistical Software:** SPSS, JASP
+- MATLAB
+- Python
+- R
+- SPSS
+- JASP
 
-### Analysis Software
+### Software
 
-- **EEG / fTCD:** EEGLAB, ERPLAB, DopOSCCI
-- **MRI / fMRI:** SPM, FSL, FreeSurfer
-
-*Multimodal neuroimaging approaches for investigating brain–behavior relationships across development.*
+- DopOSCCI
+- EEGLAB
+- ERPLAB
+- SPM
+- FSL
+- FreeSurfer
