@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Understanding how neural organization and experience shape individual differences in language, reading, and learning.
+My research focuses on understanding how neural organization and experience shape individual differences in language, reading, and learning across development. I am particularly interested in how short-term experimental manipulations and longer-term educational interventions may reshape hemispheric specialization and broader neural systems, ultimately influencing language and reading proficiency.
 
 ## Ongoing Projects
 
@@ -23,11 +23,13 @@ Using EEG/ERP, this project investigates how individual differences in mathemati
 
 <br>
 
-**Methods:** EEG/ERP, Behavioral Assessment, Mediation Analysis
+<b>Methods</b><br>
+EEG/ERP, Behavioral Assessment, Mediation Analysis
 
-<br>
+<br><br>
 
-**Software:** MATLAB, EEGLAB, ERPLAB, JASP
+<b>Software</b><br>
+MATLAB, EEGLAB, ERPLAB, JASP
 
 </details>
 
@@ -47,11 +49,13 @@ This project investigates memory encoding and recognition in children with obesi
 
 <br>
 
-**Methods:** fMRI, Structural MRI, Behavioral Assessment
+<b>Methods</b><br>
+fMRI, Structural MRI, Behavioral Assessment
 
-<br>
+<br><br>
 
-**Software:** E-Prime, SPM, FSL, FreeSurfer
+<b>Software</b><br>
+E-Prime, SPM, FSL, FreeSurfer
 
 </details>
 
@@ -77,7 +81,7 @@ This project investigates memory encoding and recognition in children with obesi
 
 **Core Question:** How are sensorimotor processes associated with language development in children with developmental language disorder (DLD)?
 
-**Research Responsibilities:** Eye-Tracking Task Implementation, Wechsler Intelligence Scale Administration, Standardized Language Assessments, Standardized Reading Assessments
+**Research Responsibilities:** Eye-Tracking Task Implementation, Administration of the Wechsler Intelligence Scale, Standardized Language Assessments, and Standardized Reading Assessments.
 
 **Contribution:** Participated in projects examining motor, proprioceptive, and haptic functioning in Mandarin-speaking children with DLD.
 
