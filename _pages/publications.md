@@ -35,7 +35,7 @@ Manuscript in preparation.
 
 Poster presented at the Summit of Psychological Associations in the Asia-Pacific (APPA), Tainan, Taiwan.
 
-<a href="https://chiachicarolhsu.github.io/images/APPA_poster_v5.png" target="_blank">
+<a href="https://chiachicarolhsu.github.io/images/appa-poster.png" target="_blank">
 Poster
 </a>
 
