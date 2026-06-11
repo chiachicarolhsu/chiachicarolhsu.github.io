@@ -2,25 +2,41 @@
 layout: single
 permalink: /
 author_profile: true
-title: "About me"
+title: "About Me"
 ---
 
-I am a Research Assistant at the College of Education, National Tsing Hua University. My research lies at the intersection of developmental cognitive neuroscience, neurophysiology, and education, with a focus on how brain organization supports learning and reading development across typical and atypical populations.
+I am a Full-Time Research Assistant at the Acute Brain and Cognition Lab, National Tsing Hua University. My research lies at the intersection of developmental cognitive neuroscience, neurophysiology, and education. I investigate how neural organization and neuroplasticity support language and reading development, with a particular interest in explaining the individual variability observed across typical and atypical populations. To understand these complex brain–behavior relationships, my work leverages multimodal neuroimaging approaches to investigate how neural organization supports language, reading, and learning across development.
 
 ## Research Interests
 
-- Developmental Cognitive Neuroscience
-- Language and Reading Development
-- Atypical Neurodevelopment
-- Structure–Function Relationships in the Brain
-- Neurophysiological Methods (EEG/ERP, fTCD, fMRI)
+- Language & Reading Development 
+- Neuroplasticity & Learning
+- Structure–Function Relationships
 
-## Current Projects
+## Research Vision
 
-My current research examines how neural organization relates to variability in learning and reading outcomes using multimodal neuroimaging approaches, including EEG/ERP, fTCD, and fMRI. I am particularly interested in how structural and functional brain organization jointly support cognitive and reading development across typical and atypical populations.
+My long-term goal is to understand how neural organization and neuroplasticity contribute to variability in language and reading development. Specifically, I am interested in whether short-term experience-dependent neural changes can accumulate into long-term developmental trajectories, and how these processes shape learning across diverse populations.
 
-## Methods / Technical Skills
+I seek to explore how short-term experimental manipulations and longer-term educational interventions may reshape hemispheric specialization and broader neural systems, and how these changes ultimately translate to language and reading proficiency.
 
-- Neurophysiological Methods: Functional Transcranial Doppler Sonography (fTCD), EEG/ERP, fMRI
-- Programming & Statistics: MATLAB, Python, R, SPSS, JASP
-- Neuroimaging Software: DopOSCCI, EEGLAB, ERPLAB, SPM, FSL, FreeSurfer
+---
+
+## Technical Methods & Skills
+
+### Neuroimaging & Neurophysiological Modalities
+
+- Functional Transcranial Doppler Sonography (fTCD)
+- EEG / ERP
+- fMRI
+
+### Programming & Data Analysis
+
+- **Programming Languages:** MATLAB, Python, R
+- **Statistical Software:** SPSS, JASP
+
+### Analysis Software
+
+- **EEG / fTCD:** EEGLAB, ERPLAB, DopOSCCI
+- **MRI / fMRI:** SPM, FSL, FreeSurfer
+
+*Multimodal neuroimaging approaches for investigating brain–behavior relationships across development.*
