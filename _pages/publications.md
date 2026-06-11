@@ -6,7 +6,7 @@
 
 Poster presented at the Summit of Psychological Associations in the Asia-Pacific (APPA), Tainan, Taiwan.
 
-[View Poster](/images/APPA_poster_v5.png)
+[View Poster](/images/appa-poster.png)
 
 <br>
 
