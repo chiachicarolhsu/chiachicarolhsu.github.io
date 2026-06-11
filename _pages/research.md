@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Understanding how neural organization, cognitive processes, and experience contribute to individual differences in learning and behavior.
+Understanding how neural organization and experience shape individual differences in language, reading, and learning.
 
 ## Ongoing Projects
 
@@ -21,22 +21,9 @@ Understanding how neural organization, cognitive processes, and experience contr
 
 Using EEG/ERP, this project investigates how individual differences in mathematical proficiency relate to neural activity during multiplication and function verification. Current analyses focus on posterior P300 activity, neural efficiency, and whether group differences in neural responses can be explained by baseline mathematical aptitude.
 
-<p><strong>Methods</strong></p>
+**Methods:** EEG/ERP, Behavioral Assessment, Mediation Analysis
 
-<ul>
-<li>EEG/ERP</li>
-<li>Behavioral Assessment</li>
-<li>Mediation Analysis</li>
-</ul>
-
-<p><strong>Software</strong></p>
-
-<ul>
-<li>MATLAB</li>
-<li>EEGLAB</li>
-<li>ERPLAB</li>
-<li>JASP</li>
-</ul>
+**Software:** MATLAB, EEGLAB, ERPLAB, JASP
 
 </details>
 
@@ -54,22 +41,9 @@ Using EEG/ERP, this project investigates how individual differences in mathemati
 
 This project investigates memory encoding and recognition in children with obesity before and after acute aerobic exercise. We examine whether behavioral performance and neural changes in regions such as the hippocampus and prefrontal cortex are associated with memory-related outcomes.
 
-<p><strong>Methods</strong></p>
+**Methods:** fMRI, Structural MRI, Behavioral Assessment
 
-<ul>
-<li>fMRI</li>
-<li>Structural MRI</li>
-<li>Behavioral Assessment</li>
-</ul>
-
-<p><strong>Software</strong></p>
-
-<ul>
-<li>E-Prime</li>
-<li>SPM</li>
-<li>FSL</li>
-<li>FreeSurfer</li>
-</ul>
+**Software:** E-Prime, SPM, FSL, FreeSurfer
 
 </details>
 
@@ -84,19 +58,9 @@ This project investigates memory encoding and recognition in children with obesi
 
 **Key Finding:** Typically developing children around age 10 showed a trend toward left-lateralized language processing, whereas age-matched children with ASD showed a right-lateralized tendency. In contrast, face lateralization appeared relatively stable across groups, suggesting that neural specialization for face processing may emerge earlier than language specialization.
 
-<p><strong>Methods</strong></p>
+**Methods:** Functional Transcranial Doppler Sonography (fTCD), Language and Face Recognition Paradigms, Laterality Index Analysis
 
-<ul>
-<li>Functional Transcranial Doppler Sonography (fTCD)</li>
-<li>Language and Face Recognition Paradigms</li>
-<li>Laterality Index Analysis</li>
-</ul>
-
-<p><strong>Output</strong></p>
-
-<ul>
-<li>APSSLH Conference Poster Presentation</li>
-</ul>
+**Output:** APSSLH Conference Poster Presentation
 
 ---
 
@@ -105,14 +69,7 @@ This project investigates memory encoding and recognition in children with obesi
 
 **Core Question:** How are sensorimotor processes associated with language development in children with developmental language disorder (DLD)?
 
-<p><strong>Research Responsibilities</strong></p>
-
-<ul>
-<li>Eye-Tracking Task Implementation</li>
-<li>Wechsler Intelligence Scale Administration</li>
-<li>Standardized Language Assessments</li>
-<li>Standardized Reading Assessments</li>
-</ul>
+**Research Responsibilities:** Eye-Tracking Task Implementation, Wechsler Intelligence Scale Administration, Standardized Language Assessments, Standardized Reading Assessments
 
 **Contribution:** Participated in projects examining motor, proprioceptive, and haptic functioning in Mandarin-speaking children with DLD.
 
@@ -125,19 +82,9 @@ This project investigates memory encoding and recognition in children with obesi
 
 **Key Finding:** Students reporting the highest levels of language anxiety did not necessarily demonstrate the lowest language achievement. Relationships between anxiety and performance varied across listening, speaking, reading, and writing, highlighting substantial individual variability in second-language learning outcomes.
 
-<p><strong>Methods</strong></p>
+**Methods:** Survey Research, Quantitative Analysis, Cross-Cultural Research Design
 
-<ul>
-<li>Survey Research</li>
-<li>Quantitative Analysis</li>
-<li>Cross-Cultural Research Design</li>
-</ul>
-
-<p><strong>Output</strong></p>
-
-<ul>
-<li>ICEI Conference Poster Presentation</li>
-</ul>
+**Output:** ICEI Conference Poster Presentation
 
 ---
 
@@ -150,10 +97,4 @@ This project investigates memory encoding and recognition in children with obesi
 
 **Impact:** This project sparked my interest in experimental design and revealed how individuals often adopt distinct cognitive strategies when solving the same numerical task, leading to substantial variation in response time and accuracy.
 
-<p><strong>Methods</strong></p>
-
-<ul>
-<li>PsychoPy Experimental Design</li>
-<li>Behavioral Data Collection</li>
-<li>Reaction Time and Accuracy Analyses</li>
-</ul>
+**Methods:** PsychoPy Experimental Design, Behavioral Data Collection, Reaction Time and Accuracy Analyses
