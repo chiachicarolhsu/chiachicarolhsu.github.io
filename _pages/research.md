@@ -126,4 +126,3 @@ This project investigates memory encoding and recognition in children with obesi
 - PsychoPy experimental design
 - Behavioral data collection
 - Reaction time and accuracy analyses
-```
