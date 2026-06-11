@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Chia-Chi Hsu"
   pronouns         : # example: "she/her"  
-  bio              : "Developmental cognitive neuroscience, reading, and brain-behavior relationships in atypical development"
+  bio              : "Full-Time Research Assistant, Acute Brain and Cognition Lab"
   location         : "Taiwan"
   employer         : "National Tsing Hua University"
   uri              : # URL
@@ -38,10 +38,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
