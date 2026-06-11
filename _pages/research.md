@@ -21,16 +21,9 @@ Understanding how neural organization, cognitive processes, and experience contr
 
 Using EEG/ERP, this project investigates how individual differences in mathematical proficiency relate to neural activity during multiplication and function verification. Current analyses focus on posterior P300 activity, neural efficiency, and whether group differences in neural responses can be explained by baseline mathematical aptitude.
 
-**Methods**
-- EEG/ERP
-- Behavioral assessment
-- Mediation analysis
+**Methods**:EEG/ERP, Behavioral assessment, Mediation analysis
 
-**Software**
-- MATLAB
-- EEGLAB
-- ERPLAB
-- JASP
+**Software**: MATLAB, EEGLAB, ERPLAB
 
 </details>
 
@@ -48,15 +41,9 @@ Using EEG/ERP, this project investigates how individual differences in mathemati
 
 This project investigates memory encoding and recognition in children with obesity before and after acute aerobic exercise. We examine whether behavioral performance and neural changes in regions such as the hippocampus and prefrontal cortex are associated with memory-related outcomes.
 
-**Methods**
-- fMRI
-- Structural MRI
-- Behavioral assessment
+**Methods**: fMRI, Structural MRI, Behavioral assessment
 
-**Software**
-- SPM
-- FSL
-- FreeSurfer
+**Software**: E-prime, SPM, FSL, FreeSurfer
 
 </details>
 
