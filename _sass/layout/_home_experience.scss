@@ -1,0 +1,91 @@
+.home-experience {
+  --experience-accent: #4f6479;
+  --experience-border: #dfe6ed;
+  --experience-tint: #f0f4f8;
+  --experience-keyword-tint: #faf8fc;
+  --experience-keyword-border: #e5dfea;
+  --experience-keyword-text: #695872;
+  margin-top: 2.5rem;
+  h2 { border-bottom-color: var(--experience-border); }
+}
+
+.experience-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  &__item {
+    display: grid;
+    grid-template-columns: 10rem minmax(0, 1fr);
+    gap: 1.5rem;
+    margin: 0;
+  }
+  p#{&}__date {
+    margin: 0;
+    padding-top: 0.15rem;
+    font-size: 0.8em;
+    color: var(--experience-accent);
+    font-variant-numeric: tabular-nums;
+  }
+  &__content {
+    position: relative;
+    border-left: 1px solid var(--experience-border);
+    padding: 0 0 2rem 1.5rem;
+    min-width: 0;
+    &::before {
+      content: "";
+      position: absolute;
+      left: -5px;
+      top: 0.45rem;
+      width: 9px;
+      height: 9px;
+      border: 1px solid var(--experience-accent);
+      border-radius: 50%;
+      background: var(--experience-tint);
+    }
+    h3 { margin: 0 0 0.5rem; font-size: 1em; line-height: 1.5; }
+    p { margin: 0 0 0.45rem; font-size: 0.85em; line-height: 1.65; }
+    p:last-child { margin-bottom: 0; }
+  }
+  &__advisor { color: var(--experience-accent); }
+  &__keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    list-style: none;
+    margin: 0.75rem 0 0;
+    padding: 0;
+    li {
+      margin: 0;
+      padding: 0.2rem 0.55rem;
+      border: 1px solid var(--experience-keyword-border);
+      border-radius: 4px;
+      background: var(--experience-keyword-tint);
+      color: var(--experience-keyword-text);
+      font-size: 0.72em;
+      line-height: 1.5;
+      max-width: 100%;
+      overflow-wrap: anywhere;
+    }
+    abbr[title] { border: 0; text-decoration: none; cursor: help; }
+  }
+  &__item:last-child &__content { padding-bottom: 0.5rem; }
+}
+
+html[data-theme="dark"] .home-experience {
+  --experience-accent: #bbcddd;
+  --experience-border: #435466;
+  --experience-tint: #303d49;
+  --experience-keyword-tint: #342f3c;
+  --experience-keyword-border: #534a5e;
+  --experience-keyword-text: #cec1db;
+}
+
+@media (max-width: 600px) {
+  .experience-timeline {
+    &__item { grid-template-columns: minmax(0, 1fr); gap: 0.5rem; margin-bottom: 1.5rem; }
+    p#{&}__date { padding-left: 1.5rem; }
+    &__content { padding-bottom: 0.5rem; }
+    &__item:last-child { margin-bottom: 0; }
+  }
+}

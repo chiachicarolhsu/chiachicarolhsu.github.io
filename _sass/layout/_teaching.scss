@@ -1,0 +1,30 @@
+.teaching-role { color: #4f6479; font-size: 0.85em; }
+
+.teaching-experience {
+  h2 { margin-top: 2rem; }
+  article { display: grid; grid-template-columns: 12rem minmax(0, 1fr); column-gap: 1rem; row-gap: 0.5rem; padding: 1.25rem 0; border-bottom: 1px solid #dfe6ed; align-content: start; }
+  article:last-child { border-bottom: 0; }
+  p { margin: 0 0 0.5rem; line-height: 1.7; }
+  p:last-child { margin: 0; font-size: 0.85em; }
+  &__date { color: #4f6479; font-size: 0.85em; margin-right: 0.65rem; }
+  p#{&}__heading { display: contents; }
+  &__date { grid-column: 1; grid-row: 1 / span 2; }
+  &__heading strong { grid-column: 2; grid-row: 1; line-height: 1.7; }
+  article > p:last-child { grid-column: 2; grid-row: 2; padding-left: 0; }
+}
+
+@media (max-width: 600px) {
+  .teaching-experience {
+    article { grid-template-columns: minmax(0, 1fr); }
+    &__date { grid-column: 1; grid-row: 1; }
+    &__heading strong { grid-column: 1; grid-row: 2; }
+    article > p:last-child { grid-column: 1; grid-row: 3; }
+  }
+}
+
+html[data-theme="dark"] .teaching-experience {
+  article { border-bottom-color: #435466; }
+  .teaching-experience__date { color: #bbcddd; }
+}
+
+html[data-theme="dark"] .teaching-role { color: #bbcddd; }

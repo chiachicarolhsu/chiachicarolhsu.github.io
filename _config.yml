@@ -27,7 +27,7 @@ author:
   name             : "Chia-Chi Hsu"
   pronouns         : # example: "she/her"  
   bio              : "Full-Time Research Assistant, 
-  Acute Brain and Cognition Lab"
+  Agile, Brain and Cognition Lab"
   location         : "Taiwan"
   employer         : "National Tsing Hua University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=0-qI0qgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : 
@@ -52,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           :
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -67,7 +67,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chia-chi-hsu-861236196"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -167,6 +167,11 @@ include:
   - _pages
   - files
 exclude:
+  - _posts
+  - _publications
+  - _talks
+  - _teaching
+  - _portfolio
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -223,16 +228,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 

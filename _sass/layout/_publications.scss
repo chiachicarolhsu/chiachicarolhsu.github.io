@@ -1,0 +1,76 @@
+.publications-page {
+  --publications-accent: #4f6479;
+  --publications-border: #dfe6ed;
+  --publications-tint: #f8fafc;
+  --publications-badge: #edf2f7;
+  section[aria-labelledby="manuscripts-in-preparation"] {
+    --publications-accent: #695872;
+    --publications-border: #e5dfea;
+    --publications-tint: #fcfafd;
+    --publications-badge: #f1ecf5;
+  }
+  section[aria-labelledby="conference-presentations"] {
+    --publications-accent: #456257;
+    --publications-border: #dfe9e4;
+    --publications-tint: #f9fcfa;
+    --publications-badge: #eef5f1;
+  }
+  h2 {
+    margin-top: 2.25rem;
+    border-bottom-color: var(--publications-border);
+    i { color: var(--publications-accent); margin-right: 0.4rem; font-size: 0.8em; }
+  }
+}
+
+.publication-entry {
+  display: grid;
+  grid-template-columns: 7rem minmax(0, 1fr);
+  gap: 1.25rem;
+  padding: 1.25rem;
+  margin-bottom: 0.85rem;
+  border: 1px solid var(--publications-border);
+  border-radius: 8px;
+  background: var(--publications-tint);
+  p#{&}__date { margin: 0; padding: 0.3rem 0.5rem; align-self: start; background: var(--publications-badge); border-radius: 4px; color: var(--publications-accent); font-size: 0.75em; line-height: 1.6; text-align: center; }
+  &__content {
+    min-width: 0;
+    h3 { margin: 0 0 0.5rem; font-size: 1em; line-height: 1.55; }
+    p { margin: 0 0 0.5rem; font-size: 0.8em; line-height: 1.7; }
+    p:last-child { margin-bottom: 0; }
+  }
+  &__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 0.7rem;
+    a { color: var(--publications-accent); font-size: 0.8em; text-decoration: none; padding: 0.2rem 0.5rem; border: 1px solid var(--publications-border); border-radius: 4px; }
+    a:hover { text-decoration: underline; }
+    a:focus-visible { outline: 2px solid var(--publications-accent); outline-offset: 4px; }
+  }
+}
+
+.publications-preparation .publication-entry { grid-template-columns: minmax(0, 1fr); }
+
+html[data-theme="dark"] .publications-page {
+  --publications-accent: #bbcddd;
+  --publications-border: #435466;
+  --publications-tint: #28323c;
+  --publications-badge: #303d49;
+  section[aria-labelledby="manuscripts-in-preparation"] {
+    --publications-accent: #cec1db;
+    --publications-border: #534a5e;
+    --publications-tint: #302b36;
+    --publications-badge: #3b3344;
+  }
+  section[aria-labelledby="conference-presentations"] {
+    --publications-accent: #bfd3c9;
+    --publications-border: #435b51;
+    --publications-tint: #28352f;
+    --publications-badge: #33463d;
+  }
+}
+
+@media (max-width: 600px) {
+  .publication-entry { grid-template-columns: minmax(0, 1fr); gap: 0.4rem; }
+  .publication-entry__date { justify-self: start; }
+}

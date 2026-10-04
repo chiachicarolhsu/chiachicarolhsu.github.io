@@ -1,0 +1,63 @@
+.research-page {
+  --research-accent: #5d7389;
+  --research-border: #dfe6ed;
+  --research-tag-background: #faf8fc;
+  --research-tag-border: #e5dfea;
+  --research-tag-text: #756580;
+  h2 { margin-top: 2.5rem; border-bottom-color: var(--research-border); }
+  h2, h3 { scroll-margin-top: 5rem; }
+  &__intro { line-height: 1.8; }
+  &__nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem 1.5rem;
+    a { color: var(--research-accent); font-size: 0.85em; }
+  }
+}
+
+.research-project {
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--research-border);
+  &:last-child { border-bottom: 0; }
+  p#{&}__meta { margin: 0 0 0.5rem; font-size: 0.75em; color: var(--research-accent); }
+  h3 { margin: 0 0 0.85rem; font-size: 1.1em; line-height: 1.5; }
+  p#{&}__summary { margin: 0 0 1rem; font-size: 0.9em; line-height: 1.7; }
+  &__keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 0 0 1.25rem;
+    padding: 0;
+    list-style: none;
+    li { margin: 0; padding: 0.2rem 0.55rem; border: 1px solid var(--research-tag-border); border-radius: 4px; background: var(--research-tag-background); color: var(--research-tag-text); font-size: 0.72em; line-height: 1.5; }
+  }
+  &__facts {
+    margin: 0;
+    font-size: 1em;
+    line-height: 1.75;
+    > div { display: grid; grid-template-columns: 8rem minmax(0, 1fr); gap: 1rem; margin-bottom: 0.8rem; }
+    dt { margin: 0; font-weight: 600; }
+    dd { margin: 0; }
+  }
+  &__details {
+    margin-top: 1rem;
+    font-size: 0.85em;
+    summary { cursor: pointer; color: var(--research-accent); }
+    &[open] summary { margin-bottom: 1rem; }
+    summary:focus-visible { outline: 2px solid var(--research-accent); outline-offset: 4px; }
+    p { margin: 0.75rem 0 0; line-height: 1.75; }
+  }
+  &__links { margin-top: 1rem; font-size: 0.85em; a { color: var(--research-accent); } }
+}
+
+html[data-theme="dark"] .research-page {
+  --research-accent: #bbcddd;
+  --research-border: #435466;
+  --research-tag-background: #342f3c;
+  --research-tag-border: #534a5e;
+  --research-tag-text: #cec1db;
+}
+
+@media (max-width: 600px) {
+  .research-project__facts > div { grid-template-columns: minmax(0, 1fr); gap: 0.2rem; }
+}

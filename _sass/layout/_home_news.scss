@@ -1,0 +1,70 @@
+/* Homepage News: quiet sage accents and compact dated updates. */
+.home-news {
+  --news-tint: #eef5f1;
+  --news-accent: #526f65;
+  --news-border: #dce8e1;
+  margin-top: 2.5rem;
+
+  h2 {
+    border-bottom-color: var(--news-border);
+  }
+
+  &__list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    max-height: 22rem;
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    scrollbar-width: thin;
+    scrollbar-color: #aec7ba var(--news-tint);
+    padding-right: 0.75rem;
+
+    &:focus-visible {
+      outline: 2px solid var(--news-accent);
+      outline-offset: 4px;
+    }
+
+    li {
+      display: grid;
+      grid-template-columns: 9rem minmax(0, 1fr);
+      gap: 1rem;
+      align-items: baseline;
+      padding: 0.9rem 0;
+      margin: 0;
+      border-bottom: 1px solid var(--news-border);
+    }
+
+    li:last-child { border-bottom: 0; }
+  }
+
+  &__date {
+    background: var(--news-tint);
+    color: var(--news-accent);
+    border-radius: 4px;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-align: center;
+  }
+
+  &__text {
+    min-width: 0;
+    overflow-wrap: anywhere;
+    line-height: 1.65;
+  }
+
+  @media (max-width: 480px) {
+    &__list li {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 0.5rem;
+    }
+    &__date { justify-self: start; }
+  }
+}
+
+html[data-theme="dark"] .home-news {
+  --news-tint: #253a33;
+  --news-accent: #bdd6cb;
+  --news-border: #354c43;
+}
