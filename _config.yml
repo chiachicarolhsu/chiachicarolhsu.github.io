@@ -28,8 +28,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Full-Time Research Assistant, 
   Agile, Brain and Cognition Lab"
-  location         : "Taiwan"
-  employer         : "National Tsing Hua University"
+  location         :
+  employer         :
   uri              : # URL
   email            : "chiachicarolhsu@gapp.nthu.edu.tw"
 
