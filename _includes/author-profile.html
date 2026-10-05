@@ -18,6 +18,14 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% if author.email %}
+      <div class="profile-email">
+        {% assign email_parts = author.email | split: '@' %}
+        <a class="profile-email__address" href="mailto:{{ author.email }}"><span>{{ email_parts[0] }}</span><span>@{{ email_parts[1] }}</span></a>
+        <button type="button" class="profile-email__copy" data-copy-email="{{ author.email | escape }}" aria-label="Copy email address">Copy</button>
+        <span class="profile-email__status" role="status" aria-live="polite"></span>
+      </div>
+    {% endif %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -32,14 +40,6 @@
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
-      {% endif %}
-      {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa-solid fa-fw fa-envelope-open-text icon-pad-right profile-link-icon" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
-        <li class="profile-email">
-          <span class="profile-email__address">{{ author.email }}</span>
-          <button type="button" class="profile-email__copy" data-copy-email="{{ author.email | escape }}" aria-label="Copy email address" title="Copy email address"><i class="fa-solid fa-copy" aria-hidden="true"></i></button>
-          <span class="profile-email__status" role="status" aria-live="polite"></span>
-        </li>
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
