@@ -73,7 +73,7 @@ My research experience spans **fTCD, EEG/ERP, and fMRI**, providing methodologic
         <p class="experience-timeline__fellowship"><strong>Academic Talent Development Fellow</strong>, Ministry of Education</p>
         <p class="experience-timeline__advisor">Independent research advisor: Prof. Joanna Reed</p>
         <ul class="experience-timeline__keywords" aria-label="Research keywords">
-          <li>Second-language acquisition</li><li>Language proficiency</li><li>Language anxiety</li>
+          <li>Second-language learning</li><li>Language proficiency</li><li>Language anxiety</li>
         </ul>
       </div>
     </li>
@@ -92,10 +92,21 @@ My research experience spans **fTCD, EEG/ERP, and fMRI**, providing methodologic
       <p class="experience-timeline__date">2023–2025</p>
       <div class="experience-timeline__content">
         <h3>Master’s Thesis Researcher</h3>
-        <p class="experience-timeline__institution">National Tsing Hua University</p>
+        <p class="experience-timeline__institution">Child Language Laboratory<br>National Tsing Hua University</p>
         <p class="experience-timeline__advisor">Advisor: Prof. Hsin-Jen Hsu</p>
         <ul class="experience-timeline__keywords" aria-label="Research keywords">
           <li>Autism spectrum disorder</li><li>Face recognition</li><li>Reading ability</li><li>Language lateralization</li>
+        </ul>
+      </div>
+    </li>
+    <li class="experience-timeline__item">
+      <p class="experience-timeline__date">2021–2023</p>
+      <div class="experience-timeline__content">
+        <h3>Undergraduate Research Assistant</h3>
+        <p class="experience-timeline__institution">Child Language Laboratory<br>National Tsing Hua University</p>
+        <p class="experience-timeline__advisor">Advisor: Prof. Hsin-Jen Hsu</p>
+        <ul class="experience-timeline__keywords" aria-label="Research keywords">
+          <li>Language development</li><li>Language processing</li><li>Standardized assessment</li><li>Functional transcranial Doppler Ultrasound(fTCD)</li>
         </ul>
       </div>
     </li>
